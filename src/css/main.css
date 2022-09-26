@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  background: rgb(204, 204, 204);
+  font-family: 'Poppins', 'sans-serif';
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+  align-items: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.sideNav {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100vh;
+  background: rgb(43, 40, 40);
+  width: 70px;
+  overflow: hidden;
+  transition: width 0.2s linear;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+a {
+  position: relative;
+  padding: 0;
+  display: flex;
+  margin-top: 30px;
+  font-size: 20px;
+  width: 300px;
+  text-decoration: none;
+  color: rgb(167, 167, 167);
+}
+
+.navitem {
+  position: relative;
+  top: 7px;
+  margin-left: 15px;
+}
+
+.bi {
+  position: relative;
+  font-size: 30px;
+  text-align: center;
+  width: 70px;
+  height: 45px;
+}
+
+a:hover {
+  color: rgb(240, 239, 239);
+}
+
+.sideNav:hover {
+  width: 230px;
+}
+
+.logBtn {
+  position: absolute;
+  bottom: 0;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoTxt {
+  font-weight: 600;
+  font-size: 30px;
+  color: rgb(54, 54, 54);
+}

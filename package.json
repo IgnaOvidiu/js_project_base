@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "author": "",
   "license": "ISC",
@@ -16,5 +17,9 @@
     "eslint-plugin-import": "^2.25.2",
     "parcel": "^2.7.0",
     "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1"
   }
 }
