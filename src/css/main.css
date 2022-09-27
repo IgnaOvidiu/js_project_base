@@ -28,6 +28,7 @@ ul {
   overflow: hidden;
   transition: width 0.2s linear;
   box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+  z-index: 999;
 }
 
 a {
@@ -90,4 +91,45 @@ li a span {
 
 .lgo .bi {
   color: rgb(54, 54, 54);
+}
+
+#main {
+  position: relative;
+  overflow: hidden;
+  transform: skew(-23deg);
+  left: -70px;
+}
+
+#main2 {
+  position: relative;
+  overflow: hidden;
+  transform: skew(-23deg);
+  transform-origin: bottom right;
+}
+.cent {
+  position: relative;
+  top: 30%;
+  left: 35%;
+  font-size: 50px;
+  font-weight: 600;
+  color: brown;
+}
+
+.und {
+  position: relative;
+  top: 50%;
+  font-size: 20px;
+}
+
+.ing {
+  color: brown;
+  font-weight: bold;
+}
+
+.recipe-btn-home {
+  position: relative;
+  bottom: -65%;
+  left: -40%;
+  background-color: brown;
+  border: none;
 }
