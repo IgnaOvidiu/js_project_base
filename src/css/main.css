@@ -84,7 +84,10 @@ li a span {
   margin-top: 7px;
 }
 
-.input-group {
-  width: 50%;
-  margin: 0 auto;
+.lgo {
+  width: 500px;
+}
+
+.lgo .bi {
+  color: rgb(54, 54, 54);
 }
