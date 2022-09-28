@@ -1,5 +1,3 @@
-const { Button } = require('bootstrap');
-
 const API_URL = 'https://www.themealdb.com/api/json/v1/1';
 
 const recipeList = document.querySelector('#recipe');
@@ -25,7 +23,7 @@ function getRecipeList() {
                     <h3 class="fs-6">${meal.strMeal}</h3>
                     <a href = "#" class = "btn btn-primary recipe-btn">Get Recipe</a>
                   </div>
-                  <button type="button" class="btn btn-primary save"
+                  <button type="button" class="btn btn-primary" id="save" 
                   data-id = "${meal.idMeal}"> ♥ Save For Later </button>
                 </div>
               </div>
