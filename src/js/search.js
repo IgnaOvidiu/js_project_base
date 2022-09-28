@@ -7,9 +7,7 @@ searchBtn.addEventListener('click', getRecipeList);
 
 function getRecipeList() {
   let searchInputTxt = document.getElementById('search').value.trim();
-  fetch(
-    `https://www.themealdb.com/api/json/v1/1/filter.php?i=${searchInputTxt}`
-  )
+  fetch(`${API_URL}/filter.php?i=${searchInputTxt}`)
     .then((response) => response.json())
     .then((data) => {
       let html = '';
@@ -23,7 +21,7 @@ function getRecipeList() {
                     <h3 class="fs-6">${meal.strMeal}</h3>
                     <a href = "#" class = "btn btn-primary recipe-btn">Get Recipe</a>
                   </div>
-                  <button type="button" class="btn btn-primary" id="save" 
+                  <button type="button" class="btn btn-primary" id="save"
                   data-id = "${meal.idMeal}"> ♥ Save For Later </button>
                 </div>
               </div>
