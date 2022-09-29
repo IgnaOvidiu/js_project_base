@@ -21,11 +21,21 @@ function getRecipeList() {
                     <h3 class="fs-6">${meal.strMeal}</h3>
                     <a href = "#" class = "btn btn-primary recipe-btn">Get Recipe</a>
                   </div>
-                  <button type="button" class="btn btn-primary" id="save"
+                  <button type="button" class="btn btn-primary saveRecipe" id="save"
                   data-id = "${meal.idMeal}"> ♥ Save For Later </button>
                 </div>
               </div>
             `;
+          const saveRecipe = document.querySelector('#recipe');
+
+          saveRecipe.addEventListener('click', saveMeal);
+          function saveMeal(e) {
+            e.preventDefault();
+            if (e.target.classList.contains('saveRecipe')) {
+              window.localStorage.setItem('recipe', JSON.stringify(meal));
+              console.log(window.localStorage);
+            }
+          }
         });
         recipeList.classList.remove('notFound');
       } else {
@@ -35,3 +45,5 @@ function getRecipeList() {
       recipeList.innerHTML = html;
     });
 }
+
+console.log(window.localStorage);
