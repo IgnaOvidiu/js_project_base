@@ -3,47 +3,63 @@ const API_URL = 'https://www.themealdb.com/api/json/v1/1';
 const recipeList = document.querySelector('#recipe');
 const searchBtn = document.querySelector('#button-addon2');
 
-searchBtn.addEventListener('click', getRecipeList);
-
-function getRecipeList() {
-  let searchInputTxt = document.getElementById('search').value.trim();
-  fetch(`${API_URL}/filter.php?i=${searchInputTxt}`)
-    .then((response) => response.json())
-    .then((data) => {
-      let html = '';
-      if (data.meals) {
-        data.meals.forEach((meal) => {
-          html += `
-            <div class = "recipe" data-id = "${meal.idMeal}">
-                <div class="card" style="width: 18rem;">
-                  <img src = "${meal.strMealThumb}" alt = "food" class="card-img-top">
-                  <div class="card-body text-center">
-                    <h3 class="fs-6">${meal.strMeal}</h3>
-                    <a href = "#" class = "btn btn-primary recipe-btn">Get Recipe</a>
-                  </div>
-                  <button type="button" class="btn btn-primary saveRecipe" id="save"
-                  data-id = "${meal.idMeal}"> ♥ Save For Later </button>
-                </div>
-              </div>
-            `;
-          const saveRecipe = document.querySelector('#recipe');
-
-          saveRecipe.addEventListener('click', saveMeal);
-          function saveMeal(e) {
-            e.preventDefault();
-            if (e.target.classList.contains('saveRecipe')) {
-              window.localStorage.setItem('recipe', JSON.stringify(meal));
-              console.log(window.localStorage);
-            }
-          }
-        });
-        recipeList.classList.remove('notFound');
-      } else {
-        html = "Sorry, we didn't find any meal!";
-        recipeList.classList.add('notFound');
-      }
-      recipeList.innerHTML = html;
+searchBtn.addEventListener('click', async () => {
+  const searchInputTxt = document.getElementById('search').value.trim();
+  console.log(searchInputTxt);
+  const data = await getRecipeList(searchInputTxt);
+  if (data.meals == null) {
+    recipeList.innerHTML = 'not found';
+  } else {
+    data.meals.map((item) => {
+      const recipe = createRecipeElement(item);
+      recipeList.appendChild(recipe);
     });
-}
+  }
+});
 
-console.log(window.localStorage);
+const getRecipeList = async (searchInputTxt) => {
+  const response = await fetch(`${API_URL}/filter.php?i=${searchInputTxt}`);
+  return response.json();
+};
+
+const createRecipeElement = (meal) => {
+  const recipeEl = document.createElement('div');
+  const cardEl = document.createElement('div');
+  const imageEl = document.createElement('img');
+  const cardBodyEl = document.createElement('div');
+  const headingEl = document.createElement('h3');
+  const linkEl = document.createElement('a');
+  const buttonEl = document.createElement('button');
+
+  imageEl.src = meal.strMealThumb;
+  headingEl.textContent = meal.strMeal;
+  linkEl.textContent = 'Get recipe';
+  buttonEl.textContent = 'Save for later';
+
+  recipeEl.classList.add('recipe');
+  cardEl.classList.add('card');
+  cardEl.style.width = '18rem';
+  imageEl.classList.add('card-img-top');
+  cardBodyEl.classList.add('card-body', 'text-center');
+  buttonEl.classList.add('btn', 'btn-primary', 'saveRecipe');
+  headingEl.classList.add('fs-6');
+  linkEl.classList.add('btn', 'btn-primary', 'recipe-btn');
+
+  recipeEl.appendChild(cardEl);
+  cardEl.appendChild(imageEl);
+  cardEl.appendChild(cardBodyEl);
+  cardBodyEl.appendChild(headingEl);
+  cardBodyEl.appendChild(linkEl);
+  cardEl.appendChild(buttonEl);
+
+  buttonEl.addEventListener('click', (e) => {
+    e.preventDefault();
+    saveRecipe(meal);
+  });
+
+  return recipeEl;
+};
+
+function saveRecipe(meal) {
+  window.localStorage.setItem('recipe', JSON.stringify(meal));
+}
