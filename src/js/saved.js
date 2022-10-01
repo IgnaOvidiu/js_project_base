@@ -1,6 +1,5 @@
 const item = JSON.parse(window.localStorage.getItem('recipe'));
 const saved = document.querySelector('#saved');
-const removeRec = document.querySelector('#remove');
 
 if (item == null) {
   saved.innerHTML = '';
@@ -17,6 +16,7 @@ if (item == null) {
   </div>
   </div>
   `;
+  const removeRec = document.querySelector('#remove');
   removeRec.addEventListener('click', removeRecipe);
   function removeRecipe(e) {
     e.preventDefault();
