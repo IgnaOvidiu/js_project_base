@@ -4,15 +4,14 @@ const saved = document.querySelector('#saved');
 if (item == null) {
   saved.innerHTML = '';
 } else {
-  saved.innerHTML = `<div class = "recipe" data-id = "${item.idMeal}">
+  saved.innerHTML = `<div class = "recipe" data-id = "${item.recipe.label}">
   <div class="card" style="width: 18rem;">
-    <img src = "${item.strMealThumb}" alt = "food" class="card-img-top">
+    <img src = "${item.recipe.image}" alt = "food" class="card-img-top">
     <div class="card-body text-center">
-      <h3 class="fs-6">${item.strMeal}</h3>
+      <h3 class="fs-6">${item.recipe.label}</h3>
       <a href = "#" class = "btn btn-primary recipe-btn">Get Recipe</a>
     </div>
-    <button type="button" class="btn btn-primary removeRecipe" id="remove"
-    data-id = "${item.idMeal}"> 💔 Remove From Saved Recipes </button>
+    <button type="button" class="btn btn-primary removeRecipe" id="remove"> 💔 Remove From Saved Recipes </button>
   </div>
   </div>
   `;

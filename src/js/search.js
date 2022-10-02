@@ -1,4 +1,6 @@
-const API_URL = 'https://www.themealdb.com/api/json/v1/1';
+import { API_KEY, APP_ID } from './constant';
+
+const API_URL = 'https://api.edamam.com/api/recipes/v2';
 
 const recipeList = document.querySelector('#recipe');
 const searchBtn = document.querySelector('#button-addon2');
@@ -7,10 +9,10 @@ searchBtn.addEventListener('click', async () => {
   const searchInputTxt = document.getElementById('search').value.trim();
   console.log(searchInputTxt);
   const data = await getRecipeList(searchInputTxt);
-  if (data.meals == null) {
+  if (data.hits == 0) {
     recipeList.innerHTML = 'not found';
   } else {
-    data.meals.map((item) => {
+    data.hits.map((item) => {
       const recipe = createRecipeElement(item);
       recipeList.appendChild(recipe);
     });
@@ -18,7 +20,9 @@ searchBtn.addEventListener('click', async () => {
 });
 
 const getRecipeList = async (searchInputTxt) => {
-  const response = await fetch(`${API_URL}/filter.php?i=${searchInputTxt}`);
+  const response = await fetch(
+    `${API_URL}?type=public&q=${searchInputTxt}&app_id=${APP_ID}&app_key=${API_KEY}`
+  );
   return response.json();
 };
 
@@ -31,8 +35,8 @@ const createRecipeElement = (meal) => {
   const linkEl = document.createElement('a');
   const buttonEl = document.createElement('button');
 
-  imageEl.src = meal.strMealThumb;
-  headingEl.textContent = meal.strMeal;
+  imageEl.src = meal.recipe.image;
+  headingEl.textContent = meal.recipe.label;
   linkEl.textContent = 'Get recipe';
   buttonEl.textContent = 'Save for later';
 
