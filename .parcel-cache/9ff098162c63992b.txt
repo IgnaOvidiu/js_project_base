@@ -1,6 +1,6 @@
-10625
+10626
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\utils\test\input\config\.testrc133086819302019482 0
-63C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\saved.js133092892757256327 0
+63C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\saved.js133092896830615210 0
 99C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\grid-3x3-gap.svg133086820527673659 0
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint-plugin-import\node_modules133086866549826226 1
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\acorn\dist\acorn.d.ts133086819315499490 0
@@ -36,12 +36,12 @@
 79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\timsort\LICENSE.md133086819306129491 0
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\browserslist\index.js133086819307569488 0
 95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\core\src\Transformation.js133086819333899495 0
-64C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\search.js133092892378175597 0
+64C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\search.js133092901434360181 0
 72C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\js-yaml\lib133086866598665420 1
 80C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\color-name\index.js133086819302329482 0
 60C:\Users\ovidi\Documents\GitHub\js_project_base\package.json133092892829264381 0
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\file-plus-fill.svg133086820525253669 0
-58C:\Users\ovidi\Documents\GitHub\js_project_base\.gitignore133092851504248085 0
+58C:\Users\ovidi\Documents\GitHub\js_project_base\.gitignore133092901281369031 0
 87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\nth-check\lib\esm\index.js133086819305459503 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\bag-dash-fill.svg133086820512343673 0
 109C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint-plugin-import\node_modules\debug\Makefile133086819310029482 0
@@ -54,7 +54,7 @@
 79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\has-bigints\.nycrc133086819302239481 0
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\envelope-heart.svg133086820522243660 0
 51C:\Users\ovidi\Documents\GitHub\js_project_base\src133092017636600623 1
-52C:\Users\ovidi\Documents\GitHub\js_project_base\dist133092894946273596 1
+52C:\Users\ovidi\Documents\GitHub\js_project_base\dist133092901087644192 1
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\box-arrow-left.svg133086820514043672 0
 116C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133086819325859511 0
 86C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\lines-and-columns\LICENSE133086819301049478 0
@@ -80,9 +80,14 @@
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2017\DayWithinYear.js133086819336159496 0
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\lib\core.json133086819329209488 0
 67C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@babel133086866023631382 1
+61C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\api.js133092901362685602 0
+101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-data.svg133086820517873659 0
+92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.values\implementation.js133086819309849496 0
+71C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\isexe\test133086866595715398 1
+87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2015\ToInt8.js133086819350009483 0
 102C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\features\css-filters.js133086819333719477 0
 59C:\Users\ovidi\Documents\GitHub\js_project_base\.prettierrc133086796110000000 0
-79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\.package-lock.json133092892829394359 0
+79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\.package-lock.json133092895692523126 0
 95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\features\midi.js133086819341949488 0
 102C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\hourglass-split.svg133086820528163652 0
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard2-plus-fill.svg133086820518273667 0
@@ -93,14 +98,14 @@
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\bag-x.svg133086820512563665 0
 103C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint\node_modules\semver\functions\gt.js133086819314489500 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\resolver\symlinked133086866667350241 1
-60C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules133092892828664396 1
+60C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules133092895691793168 1
 77C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\term-size\vendor133086866686589094 1
 81C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\array.prototype.flat133086866167351534 1
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\file-post-fill.svg133086820525283653 0
 95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\x-circle.svg133086820542109155 0
 83C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\js-yaml\bin\js-yaml.js133086819314639496 0
 86C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\functional-red-black-tree133086866566520776 1
-65C:\Users\ovidi\Documents\GitHub\js_project_base\package-lock.json133092892829254376 0
+65C:\Users\ovidi\Documents\GitHub\js_project_base\package-lock.json133092895692353155 0
 106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\calendar2-week-fill.svg133086820515373648 0
 108C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\hand-thumbs-down-fill.svg133086820527823656 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2022\OrdinaryHasInstance.js133086819344269492 0
@@ -147,7 +152,7 @@
 76C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\lmdb\caching.js133086819330989484 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\node_path\y\bbb133086866664380231 1
 55C:\Users\ovidi\Documents\GitHub\js_project_base\src\css133087628430413130 1
-54C:\Users\ovidi\Documents\GitHub\js_project_base\src\js133092851512987968 1
+54C:\Users\ovidi\Documents\GitHub\js_project_base\src\js133092901296076645 1
 83C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\function-bind\index.js133086819307949486 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\operations\2020.js133086819314059487 0
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint-scope\lib\scope-manager.js133086819311439499 0
@@ -170,7 +175,7 @@
 96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\which-boxed-primitive\.editorconfig133086819300959480 0
 97C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\skip-start.svg133086820537089164 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\sort-alpha-up.svg133086820537309165 0
-66C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\constant.js133092894876673722 0
+66C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\constant.js133092901086064201 0
 98C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\shield-fill.svg133086820536399280 0
 90C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\dist\dom\data.js133086820764718879 0
 86C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\type-fest\ts41\index.d.ts133086819316519472 0
@@ -187,7 +192,7 @@
 67C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@lezer133086866037211378 1
 75C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\is-bigint\test133086866585510763 1
 84C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\is-symbol\.editorconfig133086819301069497 0
-66C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\services.js133092894944903032 0
+66C:\Users\ovidi\Documents\GitHub\js_project_base\src\js\services.js133092901486415320 0
 96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\which-boxed-primitive\.eslintignore133086819302079477 0
 120C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint-import-resolver-node\node_modules\debug\src\index.js133086819305289499 0
 64C:\Users\ovidi\Documents\GitHub\js_project_base\src\css\main.css133091132101387363 0
@@ -228,10 +233,10 @@
 88C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2022\ToInt16.js133086819349919479 0
 73C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve-from133086866667980353 1
 78C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\csso\lib\usage.js133086819323579495 0
-66C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@lmdb133092892828664396 1
+66C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@lmdb133092895691803143 1
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\calendar2-heart-fill.svg133086820515143662 0
 70C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@mischnic133086866039581372 1
-78C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@msgpackr-extract133092892828664396 1
+78C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@msgpackr-extract133092895691793168 1
 73C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\mdn-data\api133086866614419596 1
 106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\envelope-heart-fill.svg133086820522233783 0
 111C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\tsconfig-paths\node_modules\json5\lib\stringify.js133086819312979483 0
@@ -310,9 +315,6 @@
 99C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2021\CopyDataProperties.js133086819333819476 0
 75C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\array-includes133086866165961523 1
 93C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2017\ObjectCreate.js133086819343649489 0
-68C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\yallist133086866712306718 1
-70C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\commander133086866369053060 1
-106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2017\CreateDataPropertyOrThrow.js133086819334369475 0
 173C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz\package.json133086819330259493 0
 106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\css-select\lib\pseudo-selectors\subselects.js133086819313439473 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\alarm.svg133086820509913670 0
@@ -366,6 +368,9 @@
 86C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\msgpackr\dist\test.js.map133086819321309484 0
 110C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\arrow-right-square-fill.svg133086820511193669 0
 66C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\chalk133086866365983065 1
+68C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\yallist133086866712306718 1
+70C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\commander133086866369053060 1
+106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2017\CreateDataPropertyOrThrow.js133086819334369475 0
 88C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\path-browserify\security.md133092892806162326 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\features\mpeg-dash.js133086819342059510 0
 103C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\htmlnano\lib\modules\removeOptionalTags.js133086819319309483 0
@@ -655,7 +660,7 @@
 85C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\lmdb\src\compression.cpp133086819328379470 0
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\box-arrow-down-right.svg133086820513943669 0
 71C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\estraverse133086866557396223 1
-75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.34df27b5.css.map133092892835424381 0
+75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.34df27b5.css.map133092896837065220 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2019\ToString.js133086819351189491 0
 116C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133086819329869478 0
 66C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\tslib133086866700456432 1
@@ -783,7 +788,7 @@
 72C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\htmlparser2133086866580380696 1
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\plugin\src\PluginAPI.d.ts133086819307389505 0
 67C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\ignore133086866581900737 1
-72C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.aa0a0f5c.css133092892834954406 0
+72C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.aa0a0f5c.css133092896836905230 0
 97C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\fast-json-stable-stringify\README.md133086819314409491 0
 96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\card-list.svg133086820516023667 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\boxes.svg133086820514173703 0
@@ -1195,8 +1200,6 @@
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\htmlparser2\lib\FeedHandler.js133086819302529480 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\image.svg133086820528283662 0
 75C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\wrappy\LICENSE133086819303399482 0
-92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\regions\AE.js133086819311049479 0
-96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\type-fest\source\tsconfig-json.d.ts133086819322019508 0
 99C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\entities\lib\decode_codepoint.d.ts.map133086819315139483 0
 68C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\regexpp133086866659590234 1
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\uri-js\dist\esnext\regexps-iri.js133086819309489481 0
@@ -1819,7 +1822,6 @@
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\workers\lib\childState.js133086819310399479 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\utility-types\dist\utility-types.js.map133086819312699481 0
 81C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\css-select\README.md133086819319529474 0
-95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\util\scrollbar.js133086820765189499 0
 88C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-svg\lib133086866102350890 1
 72C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\uri-js\dist133086866704536440 1
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\svgo\lib\css-tools.js133086819319789482 0
@@ -2007,6 +2009,8 @@
 76C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\LICENSE133086819306149478 0
 110C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\resolver\dot_slash_main\package.json133086819329749485 0
 98C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\type-fest\source\set-return-type.d.ts133086819321379521 0
+92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\regions\AE.js133086819311049479 0
+96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\type-fest\source\tsconfig-json.d.ts133086819322019508 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\caniuse-lite\data\regions\TO.js133086819344539481 0
 95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint\lib\rules\no-cond-assign.js133086819334579476 0
 104C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\type-fest\source\union-to-intersection.d.ts133086819322149484 0
@@ -2800,10 +2804,6 @@
 103C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\string.prototype.trimstart\test\shimmed.js133086819312709489 0
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2017\AbstractEqualityComparison.js133086819320149473 0
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\string.prototype.trimstart\test\tests.js133086819313219489 0
-79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\is-regex\README.md133086819311889484 0
-119C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133086819304119507 0
-89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\resolver\foo.js133086819320139477 0
-87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object-inspect\test\has.js133086819314909490 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object-inspect\test\lowbyte.js133086819317509485 0
 103C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\helpers\isTrailingSurrogate.js133086819341709486 0
 114C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@babel\highlight\node_modules\supports-color\index.js133086819303739486 0
@@ -2973,6 +2973,10 @@
 98C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2020\Number\bitwiseAND.js133086819329719503 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.entries\test\tests.js133086819314749484 0
 93C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\resolver\cup.coffee133086819309849496 0
+79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\is-regex\README.md133086819311889484 0
+119C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133086819304119507 0
+89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\resolve\test\resolver\foo.js133086819320139477 0
+87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object-inspect\test\has.js133086819314909490 0
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\get-intrinsic\LICENSE133086819303579483 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\envelope-fill.svg133086820522213674 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\msgpackr-extract\src\.vs\src133086866621210403 1
@@ -3614,9 +3618,6 @@
 117C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\eslint-import-resolver-node\node_modules\debug\README.md133086819311289492 0
 82C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.values\auto.js133086819309059485 0
 87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.values\CHANGELOG.md133086819315919487 0
-92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.values\implementation.js133086819309849496 0
-71C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\isexe\test133086866595715398 1
-87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\2015\ToInt8.js133086819350009483 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\es-abstract\operations\2022.js133086819315989495 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\scss\_offcanvas.scss133086820769354638 0
 83C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\object.values\index.js133086819311499481 0
@@ -8415,7 +8416,6 @@
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-check-fill.svg133086820517843668 0
 96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-babel\README.md133086819318029484 0
 106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-data-fill.svg133086820517863657 0
-101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-data.svg133086820517873659 0
 93C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@jridgewell\set-array\dist\types133086866034101378 1
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-heart-fill.svg133086820517893671 0
 102C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\clipboard-heart.svg133086820517903673 0
@@ -8664,7 +8664,7 @@
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\filter-square.svg133086820526513652 0
 79C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\ajv\lib\dot\if.jst133086819328149499 0
 98C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\fingerprint.svg133086820526533659 0
-80C:\Users\ovidi\Documents\GitHub\js_project_base\dist\js_project_base.59712999.js133092892835524370 0
+80C:\Users\ovidi\Documents\GitHub\js_project_base\dist\js_project_base.59712999.js133092896837015224 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\flag.svg133086820526553656 0
 94C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\flower2.svg133086820526583668 0
 99C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap-icons\icons\folder-minus.svg133086820526613650 0
@@ -9177,6 +9177,7 @@
 95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\array.prototype.flat\.editorconfig133086819301189479 0
 105C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\util\component-functions.js133086820764658891 0
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\util\index.js133086820765038894 0
+95C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\util\scrollbar.js133086820765189499 0
 105C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\core\test\fixtures\duplicate-targets133086866059411387 1
 91C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\util\swipe.js133086820765449498 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\bootstrap\js\src\dom\data.js133086820764728879 0
@@ -9910,7 +9911,7 @@
 114C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-musl.node133086819342359509 0
 114C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133086819343529481 0
 87C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\src133086866098770899 1
-63C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.html133092892835164385 0
+63C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.html133092896837235220 0
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133086819304279484 0
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\src\loadNative.js133086819310249482 0
 107C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133086819302599477 0
@@ -10025,7 +10026,7 @@
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\lib133086866085101396 1
 96C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\LICENSE133086819301229481 0
 101C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\package.json133086819311049479 0
-71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.6b6bc819.js133092894946243603 0
+71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.6b6bc819.js133092901087604194 0
 92C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\src133086866085341388 1
 106C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133086819309409477 0
 100C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\@parcel\runtime-browser-hmr\lib\loaders133086866085211369 1
@@ -10608,19 +10609,19 @@
 74C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\.bin\svgo.ps1133086819353799473 0
 76C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\.bin\terser.cmd133086819353979481 0
 76C:\Users\ovidi\Documents\GitHub\js_project_base\node_modules\.bin\terser.ps1133086819353979481 0
-71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.34df27b5.css133092892835404384 0
+71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\index.34df27b5.css133092896837015224 0
 89C:\Users\ovidi\Documents\GitHub\js_project_base\dist\js_project_base-main.59712999.js.map133086835715545879 0
-84C:\Users\ovidi\Documents\GitHub\js_project_base\dist\js_project_base.59712999.js.map133092892835574388 0
-70C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.8af07603.js133092894878077462 0
-74C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.8af07603.js.map133092894878097452 0
+84C:\Users\ovidi\Documents\GitHub\js_project_base\dist\js_project_base.59712999.js.map133092896837065220 0
+70C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.8af07603.js133092901087484208 0
+74C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.8af07603.js.map133092901087514211 0
 71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.aa0a0f5c.css133092824507556705 0
 75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.aa0a0f5c.css.map133092824507706709 0
 70C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.b4dd085b.js133089351556401433 0
-63C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.html133092892835164385 0
+63C:\Users\ovidi\Documents\GitHub\js_project_base\dist\saved.html133092896837235220 0
 71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.61dc8c0d.js133087688601046851 0
 75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.61dc8c0d.js.map133087688601076882 0
-75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.6b6bc819.js.map133092894946263603 0
-76C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.aa0a0f5c.css.map133092892835014424 0
+75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.6b6bc819.js.map133092901087634189 0
+76C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.aa0a0f5c.css.map133092896837035227 0
 71C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.fdb1c74a.js133087688139142389 0
 75C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.fdb1c74a.js.map133087688139222397 0
-64C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.html133092892835794369 0
+64C:\Users\ovidi\Documents\GitHub\js_project_base\dist\search.html133092896837345230 0
