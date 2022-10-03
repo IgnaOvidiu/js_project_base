@@ -1,4 +1,4 @@
-import { item, saved } from './constant';
+import { item, saved } from './constants';
 
 if (item == null) {
   saved.innerHTML = '';
