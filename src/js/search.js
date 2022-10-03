@@ -1,4 +1,4 @@
-import { recipeList, searchBtn } from './constant';
+import { recipeList, searchBtn } from './constants';
 import { createRecipeElement } from './createElement';
 import { getRecipeList } from './services';
 
