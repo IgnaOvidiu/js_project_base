@@ -1,5 +1,6 @@
-import { API_KEY, API_URL, APP_ID } from './constant';
+import { API_URL, APP_ID } from './constant';
 import * as dotenv from 'dotenv';
+import { API_KEY } from './api';
 dotenv.config();
 process.env.API_KEY;
 
