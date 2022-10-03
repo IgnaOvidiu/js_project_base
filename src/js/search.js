@@ -5,6 +5,7 @@ import { getRecipeList } from './services';
 searchBtn.addEventListener('click', async () => {
   const searchInputTxt = document.getElementById('search').value.trim();
   console.log(searchInputTxt);
+  recipeList.innerHTML = '';
   const data = await getRecipeList(searchInputTxt);
   if (data.hits == 0) {
     recipeList.innerHTML = 'not found';
