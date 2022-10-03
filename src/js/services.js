@@ -1,7 +1,7 @@
 import { API_KEY, API_URL, APP_ID } from './constants';
 import * as dotenv from 'dotenv';
 dotenv.config();
-process.env.API_URL;
+process.env.API_KEY;
 
 export const getRecipeList = async (searchInputTxt) => {
   const response = await fetch(
