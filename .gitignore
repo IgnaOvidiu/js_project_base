@@ -91,4 +91,4 @@ lerna-debug.log
 Thumbs.db
 
 .parcel-cache
-constants.js
+api.js
