@@ -1,5 +1,4 @@
-const item = JSON.parse(window.localStorage.getItem('recipe'));
-const saved = document.querySelector('#saved');
+import { item, saved } from './constant';
 
 if (item == null) {
   saved.innerHTML = '';
