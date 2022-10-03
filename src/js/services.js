@@ -1,4 +1,4 @@
-import { API_KEY, API_URL, APP_ID } from './constant';
+import { API_URL, APP_ID } from './constant';
 
 export const getRecipeList = async (searchInputTxt) => {
   const response = await fetch(
